@@ -57,3 +57,11 @@
   font-weight: bold;
   color: rgb(76, 42, 32);
 }
+.error label {
+  color: rgb(136, 2, 2);
+}
+.error input {
+  background-color: rgb(234, 142, 142);
+  border-color: rgb(136, 2, 2);
+  color: rgb(136, 2, 2);
+}
